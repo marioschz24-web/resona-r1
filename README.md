@@ -4,7 +4,7 @@ Gemelo digital interactivo de un dispositivo físico de audio, modelado en Blend
 
 **Autor:** Mario Sánchez Villanueva
 **Curso:** Fabricación Digital · Facultad de Diseño, Universidad del Desarrollo
-**Demo en línea:** https://TU_USUARIO.github.io/resona-r1/
+**Demo en línea:** https://marioschz24.github.io/resona-r1/
 
 ## El dispositivo
 
